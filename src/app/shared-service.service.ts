@@ -17,7 +17,7 @@ export class SharedServiceService {
   }
 
   addDepartment(dept:any){
-    return this.http.post(this.apiURL+'department',dept);
+    return this.http.post(this.apiURL+'/department',dept);
   }
 
   updateDepartment(dept:any){
@@ -25,7 +25,7 @@ export class SharedServiceService {
   }
 
   deleteDepartment(dept:any){
-    return this.http.delete(this.apiURL+'/Department/',dept);
+    return this.http.delete(this.apiURL+'/Department/'+dept);
   }
 
 
@@ -44,7 +44,7 @@ export class SharedServiceService {
   }
 
   deleteEmployee(dept:any){
-    return this.http.delete(this.apiURL+'/Employee/',dept);
+    return this.http.delete(this.apiURL+'/Employee/'+dept);
   }
 
   SavePhoto(val:any){
