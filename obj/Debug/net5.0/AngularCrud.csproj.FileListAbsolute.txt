@@ -37,3 +37,9 @@ C:\Users\Senior MIS\source\repos\AngularCrud\obj\Debug\net5.0\AngularCrud.dll
 C:\Users\Senior MIS\source\repos\AngularCrud\obj\Debug\net5.0\ref\AngularCrud.dll
 C:\Users\Senior MIS\source\repos\AngularCrud\obj\Debug\net5.0\AngularCrud.pdb
 C:\Users\Senior MIS\source\repos\AngularCrud\obj\Debug\net5.0\AngularCrud.genruntimeconfig.cache
+C:\Users\Senior MIS\source\repos\AngularCrud\bin\Debug\net5.0\CRUDAPIwithAspCore\angular.json
+C:\Users\Senior MIS\source\repos\AngularCrud\bin\Debug\net5.0\CRUDAPIwithAspCore\package-lock.json
+C:\Users\Senior MIS\source\repos\AngularCrud\bin\Debug\net5.0\CRUDAPIwithAspCore\package.json
+C:\Users\Senior MIS\source\repos\AngularCrud\bin\Debug\net5.0\CRUDAPIwithAspCore\tsconfig.app.json
+C:\Users\Senior MIS\source\repos\AngularCrud\bin\Debug\net5.0\CRUDAPIwithAspCore\tsconfig.json
+C:\Users\Senior MIS\source\repos\AngularCrud\bin\Debug\net5.0\CRUDAPIwithAspCore\tsconfig.spec.json
